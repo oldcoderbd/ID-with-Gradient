@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(to left, rgba(196, 230, 49, 0.596), rgb(35, 184, 134), rgb(101, 109, 219));
+}
+
+.all table{
+    margin: auto;
+}
+table, tr, td{
+    border: 1px solid rgb(255, 255, 255);
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(11, 36, 107);
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.radial{
+    width: 400px;
+    height: 400px;
+    background-image: radial-gradient(rgb(221, 5, 5) 10%, rgb(121, 121, 248) 30%, rgb(44, 199, 95) 60%, yellow);
+}
+.Resisec .radial{
+    margin: auto;
+}
